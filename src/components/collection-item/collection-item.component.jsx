@@ -11,7 +11,7 @@ const CollectionItem = ({id, name, price, imageUrl}) =>(
 		}} />
 		<div className= 'collection-footer'>
 			<span className='name'>{name}</span>
-			<span classNmae='price'>{price}</span>
+			<span className='price'>{price}</span>
 		</div>
 		
 	</div>
